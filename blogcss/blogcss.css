@@ -9,6 +9,10 @@ h1{
   font-family: Courier, san-serif;
 }
 
+h2{
+  font-family: Courier, san-serif;
+}
+
 img {
     max-height: 40%;
     max-width: 40%;
@@ -66,10 +70,9 @@ p{
     padding: 5px;
   }
 
-p{
+  p{
   font-size: 25px;
-}
-
+  }
 }
 
 @media only screen and (max-width: 1000px){
@@ -77,13 +80,13 @@ p{
     font-size: 25px;
   }
 
-h2{
-  font-size: 25px;
-}
+  h2{
+    font-size: 25px;
+  }
 
-body{
-  padding: 5px;
-}
+  body{
+    padding: 5px;
+  }
 
   li{
     font-size: 20px;
@@ -127,12 +130,11 @@ body{
     font-size: 15px;
   }
 
- h1{
+  h1{
     font-size: 20px;
   }
 
-h2{
+  h2{
   font-size: 20px;
-}
-
+  }
 }
